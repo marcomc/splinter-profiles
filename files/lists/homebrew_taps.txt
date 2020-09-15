@@ -1,0 +1,8 @@
+chef/chef
+clintmod/formulas
+homebrew/bundle
+homebrew/cask
+homebrew/cask-fonts
+homebrew/cask-versions
+homebrew/core
+inviqa/tools

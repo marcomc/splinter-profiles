@@ -1,0 +1,6 @@
+---
+ssh_proxy_enabled: yes
+ssh_proxy_name: frontdoor.inviqa.com
+ssh_proxy_aliases:
+  - frontdoor
+ssh_proxy_port: 22

@@ -1,0 +1,23 @@
+---
+homebrew_fix_acl_permissions: yes       # Apply ACL permissions to allow all `homebrew_group` members to operate brew
+homebrew_fix_posix_permissions: yes      # Apply POSIX permissions to allow all `homebrew_group` members to operate brew
+homebrew_auto_update_upgrade: yes  # also upgrade packages and casks after updating homebrew database
+homebrew_auto_update_cleanup: yes # cleanup homebrew cache and logs after update
+homebrew_auto_update_enable_notification: no # enable terminal notifications when homebrew is upgrading
+#
+# YOU CAN CREATE XXX_LIST_FILES USING tools/export_apps_lists.sh
+#
+# homebrew_taps_list_file values will be merged to homebrew_taps values
+homebrew_taps_list_file: ''
+homebrew_taps: []
+
+# homebrew_cask_apps_list_file values will be merged to homebrew_cask_apps values
+homebrew_cask_apps_list_file: ''
+homebrew_cask_apps: []
+# This list is complemented by {{homebrew_cask_apps_list_file}}
+
+
+# homebrew_installed_packages_list_file values will be merged to homebrew_installed_packages values
+homebrew_installed_packages_list_file: ''
+homebrew_installed_packages: []
+# This list is complemented by {{homebrew_packages_list_file}}

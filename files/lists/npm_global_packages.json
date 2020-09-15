@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "cloudflare-cli": {
+      "version": "2.2.0",
+      "from": "cloudflare-cli",
+      "resolved": "https://registry.npmjs.org/cloudflare-cli/-/cloudflare-cli-2.2.0.tgz"
+    },
+    "grunt": {
+      "version": "0.4.5",
+      "from": "grunt@*",
+      "resolved": "https://registry.npmjs.org/grunt/-/grunt-0.4.5.tgz"
+    },
+    "grunt-cli": {
+      "version": "0.1.13",
+      "from": "grunt-cli@*",
+      "resolved": "https://registry.npmjs.org/grunt-cli/-/grunt-cli-0.1.13.tgz"
+    },
+    "instant-markdown-d": {
+      "version": "0.0.8",
+      "from": "instant-markdown-d@*",
+      "resolved": "https://registry.npmjs.org/instant-markdown-d/-/instant-markdown-d-0.0.8.tgz"
+    },
+    "kaizoku": {
+      "version": "1.2.6",
+      "from": "kaizoku",
+      "resolved": "https://registry.npmjs.org/kaizoku/-/kaizoku-1.2.6.tgz"
+    },
+    "npm": {
+      "version": "6.14.7"
+    },
+    "slack-cli": {
+      "version": "1.0.18",
+      "from": "slack-cli@latest",
+      "resolved": "https://registry.npmjs.org/slack-cli/-/slack-cli-1.0.18.tgz"
+    }
+  }
+}
