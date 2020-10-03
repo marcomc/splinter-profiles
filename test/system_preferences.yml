@@ -10,7 +10,7 @@ Configure_DiskImages:          no # Enable DiskImages configuration
 Configure_Displays:            no # Enable Displays configuration
 Configure_Dock:                yes # Enable Dock configuration
 Configure_EnergySaver:         no # Enable Energy Saver configuration
-Configure_EnergySaver:              no # Enable Finder configuration
+Configure_Finder:              no # Enable Finder configuration
 Configure_General:             no # Enable General configuration
 Configure_HotCorners:          no # Enable Hot Corners configurations
 Configure_iCloud:              no # Enable iCloud configuration
